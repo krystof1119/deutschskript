@@ -2,7 +2,7 @@
   "name": "deutschskript",
   "version": "1.0.0",
   "description": "Deutschskript is a bizarre Javascript/Typescript library which adds some functions and extends the language in some other ways, all of which in German. It is NOT MEANT FOR PRODUCTION USE.",
-  "main": "index.js",
+  "main": "dist/bundle.js",
   "repository": "https://github.com/krystof1119/deutschskript.git",
   "author": "Kryštof Píštěk <krystof1119@gmail.com>",
   "license": "MIT",
