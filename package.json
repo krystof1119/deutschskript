@@ -38,6 +38,7 @@
     "build-dev": "webpack",
     "test": "jest",
     "docs": "typedoc",
+    "prepublish": "yarn run build",
     "deploy": "np"
   }
 }
