@@ -11,7 +11,9 @@
   "homepage": "https://github.com/krystof1119/deutschskript#readme",
   "license": "MIT",
   "private": false,
-  "files": ["index.d.ts"],
+  "files": [
+    "index.d.ts"
+  ],
   "types": "index.d.ts",
   "devDependencies": {
     "@babel/core": "^7.7.2",
@@ -24,6 +26,7 @@
     "npm-dts-webpack-plugin": "^1.1.10",
     "ts-jest": "^24.1.0",
     "ts-loader": "^6.2.1",
+    "typedoc": "^0.15.0",
     "typescript": "^3.7.2",
     "webpack": "^4.41.2",
     "webpack-cli": "^3.3.10",
@@ -32,6 +35,7 @@
   "scripts": {
     "build": "webpack --mode production",
     "build-dev": "webpack",
-    "test": "jest"
+    "test": "jest",
+    "docs": "typedoc"
   }
 }

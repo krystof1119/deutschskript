@@ -8,3 +8,6 @@ Deutschskript is a bizarre Javascript/Typescript library which adds some functio
 * a wann() function, which is an if statement but worse
 * Much more, with everything actually being documented!
 * Full typescript typings
+
+## How to get docs
+Clone the repo, run `yarn install` and `yarn run docs`
