@@ -5,6 +5,10 @@
   "main": "dist/bundle.js",
   "repository": "https://github.com/krystof1119/deutschskript.git",
   "author": "Kryštof Píštěk <krystof1119@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/krystof1119/deutschskript/issues"
+  },
+  "homepage": "https://github.com/krystof1119/deutschskript#readme",
   "license": "MIT",
   "private": false,
   "files": ["index.d.ts"],
