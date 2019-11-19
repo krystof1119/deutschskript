@@ -5,7 +5,7 @@ Deutschskript is a bizarre Javascript/Typescript library which adds some functio
 
 #### What can I expect?
 * a NULL constant, which is not null, but 0
-* a wann() function, which is an if statement but worse
+* a wenn() function, which is an if statement but worse
 * Much more, with everything actually being documented!
 * Full typescript typings
 
